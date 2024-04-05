@@ -7,7 +7,7 @@
 
 Для простмотра результируещего ноутбука с корректным отображением интерактивных графиков Plotly, используйте [ссылку на nbviewer.org](https://nbviewer.org/github/askornyakov1977/SkillFactory-DST/blob/main/Project_6/PROJECT_6__%D0%A1%D0%B5%D0%B3%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2_%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb) 
 
-Или зесь [ссылку на colab.research.google.com](https://colab.research.google.com/drive/1yV-AQWCY1_Hq28rQ411I469-YRYhGm2K?usp=sharing)
+Или здесь [ссылку на colab.research.google.com](https://colab.research.google.com/drive/1yV-AQWCY1_Hq28rQ411I469-YRYhGm2K?usp=sharing)
 
 Условия:
 - Решение оформляется только в Jupyter Notebook;
