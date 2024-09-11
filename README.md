@@ -10,3 +10,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 4. Классификация открытия депозита](https://github.com/askornyakov1977/SkillFactory-DST/tree/main/Project_4)
 * [Проект 5. Продолжительность поездки на такси в Нью-Йорке](https://github.com/askornyakov1977/SkillFactory-DST/tree/main/Project_5)
 * [Проект 6. Сегментация клиентов онлайн-магазина.](https://github.com/askornyakov1977/SkillFactory-DST/tree/main/Project_6)
+* [Дипломный проект. Обнаружение аномалий в данных мониторинга процессингового центра.](https://github.com/askornyakov1977/SkillFactory-DST/tree/main/Final)
